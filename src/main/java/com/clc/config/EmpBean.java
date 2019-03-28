@@ -2,12 +2,14 @@ package com.clc.config;
 
 public class EmpBean {
 
+//fjsdgf
 	private int empId;
 	private String empName;
 	private String empAddress;
 	private int empAge;
 	private double empSalary;
 	
+	//hhasfhjsa
 	public int getEmpId() {
 		return empId;
 	}
