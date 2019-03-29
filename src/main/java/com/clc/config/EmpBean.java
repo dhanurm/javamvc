@@ -8,6 +8,7 @@ public class EmpBean {
 	private int empAge;
 	private double empSalary;
 	
+	//gfgeskgk
 	public int getEmpId() {
 		return empId;
 	}
